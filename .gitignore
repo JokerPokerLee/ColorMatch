@@ -1,0 +1,4 @@
+# link file
+build/*
+# leaderboard
+board.txt
